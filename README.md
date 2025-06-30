@@ -1,3 +1,8 @@
+LSE API is used for managing brokers, stocks, and trades in a stock exchange scenario. Built with .NET 8, it leverages clean architecture principles, JWT authentication, and MySQL for robust data storage.
+
+-------------------------------------------------
+
+
 **Tech Stack**
 
 ·	Backend Framework: ASP.NET Core 8 (Web API)
